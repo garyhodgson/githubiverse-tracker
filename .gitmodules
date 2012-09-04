@@ -1,0 +1,3 @@
+[submodule "projects/githubiverse-tst"]
+	path = projects/githubiverse-tst
+	url = git@github.com:garyhodgson/githubiverse-tst.git
